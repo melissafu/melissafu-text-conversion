@@ -123,22 +123,14 @@ showing _underlined_ words thus.
 
 
 There came a day - at Summer's full -
-
 Entirely for me -
-
 I thought that such were for the Saints -
-
 Where Resurrections - be -
 
-
-The sun - as common - went abroad -
-
-The flowers - accustomed - blew,
-
-As if no soul - that solstice passed -
-
+The sun - as common - went abroad -  
+The flowers - accustomed - blew,  
+As if no soul - that solstice passed -  
 Which maketh all things - new -
-
 
 The time was scarce profaned - by speech -
 
