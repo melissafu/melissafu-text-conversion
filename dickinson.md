@@ -14,7 +14,6 @@ Language: English
 
 Produced by Jim Tinsley <jtinsley@pobox.com>
 
-
 ### POEMS
 
 ### by EMILY DICKINSON
@@ -89,24 +88,19 @@ breath away, a lesson on grammar seems an impertinence. As Ruskin
 wrote in his earlier and better days, "No weight nor mass nor beauty
 of execution can outweigh one grain or fragment of thought."
 
-
 ---Thomas Wentworth Higginson
 
-
 # TRANSCRIBER'S NOTE
-
 
 As is well documented, Emily Dickinson's poems were edited in these
 early editions by her friends, better to fit the conventions of the
 times. In particular, her dashes, often small enough to appear
 as dots, became commas and semi-colons.
 
-
 In the second series of poems published, a facsimile of her
 handwritten poem which her editors titled "Renunciation" is given,
 and I here transcribe that manuscript as faithfully as I can,
 showing _underlined_ words thus.
-
 
 There came a day - at Summer's full -  
 Entirely for me -  
@@ -133,7 +127,6 @@ Clutched tight - by greedy hands -
 So - faces on two Decks look back -  
 Bound to _opposing_ lands.
 
-
 And so, when all the time had leaked,  
 Without external sound,  
 Each bound the other's Crucifix -  
@@ -152,9 +145,7 @@ However, this transcription may be compared with the edited
 version in the main text to get a flavor of the changes made
 in these early editions.
 
-
 ---JT
-
 
     This is my letter to the world,
       That never wrote to me, --
@@ -166,85 +157,56 @@ in these early editions.
     For love of her, sweet countrymen,
        Judge tenderly of me!
 
-
 # I. LIFE.
-
 
 ## I.
 
-
 ### SUCCESS.
 
-
-[Published in "A Masque of Poets"
-at the request of "H.H.," the author's
+[Published in "A Masque of Poets"  
+at the request of "H.H.," the author's  
 fellow-townswoman and friend.]
 
-
-Success is counted sweetest
-
-By those who ne'er succeed.
-
-To comprehend a nectar
-
+Success is counted sweetest  
+By those who ne'er succeed.  
+To comprehend a nectar  
 Requires sorest need.
 
-
-Not one of all the purple host
-
-Who took the flag to-day
-
-Can tell the definition,
-
+Not one of all the purple host  
+Who took the flag to-day  
+Can tell the definition,  
 So clear, of victory,
 
-
-As he, defeated, dying,
-
-On whose forbidden ear
-
-The distant strains of triumph
-
+As he, defeated, dying,  
+On whose forbidden ear  
+The distant strains of triumph  
 Break, agonized and clear!
-
-
-
-
 
 ## II.
 
+Our share of night to bear,  
+Our share of morning,  
+Our blank in bliss to fill,  
+Our blank in scorning.  
 
-Our share of night to bear,
-Our share of morning,
-Our blank in bliss to fill,
-Our blank in scorning.
-
-
-Here a star, and there a star,
-Some lose their way.
-Here a mist, and there a mist,
-Afterwards -- day!
-
-
-
-
+Here a star, and there a star,  
+Some lose their way.  
+Here a mist, and there a mist,  
+Afterwards -- day!  
 
 ## III.
 
-
 ### ROUGE ET NOIR.
 
+Soul, wilt thou toss again?  
+By just such a hazard  
+Hundreds have lost, indeed,  
+But tens have won an all.  
 
-Soul, wilt thou toss again?
-By just such a hazard
-Hundreds have lost, indeed,
-But tens have won an all.
-
-
-Angels' breathless ballot
-Lingers to record thee;
-Imps in eager caucus
-Raffle for my soul.
+Angels' breathless ballot  
+Lingers to record thee;  
+Imps in eager caucus  
+Raffle for my soul.  
 
 
 
