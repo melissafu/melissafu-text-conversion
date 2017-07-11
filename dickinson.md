@@ -1,41 +1,29 @@
 Project Gutenberg's Poems: Three Series, Complete, by Emily Dickinson
 
-
 This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.net
-
 
 Title: Poems: Three Series, Complete
 
-
 Author: Emily Dickinson    
-
 
 Release Date: May 3, 2004 [EBook #12242]
 
-
 Language: English
 
-
 *** START OF THIS PROJECT GUTENBERG EBOOK POEMS: THREE SERIES, COMPLETE ***
-
 
 Produced by Jim Tinsley <jtinsley@pobox.com>
 
 
 ### POEMS
 
-
 ### by EMILY DICKINSON
-
 
 Edited by two of her friends
 
-
 MABEL LOOMIS TODD and T.W. HIGGINSON
 
-
 # PREFACE.
-
 
 The verses of Emily Dickinson belong emphatically to what Emerson
 long since called "the Poetry of the Portfolio,"--something produced
@@ -58,7 +46,6 @@ conventional rules, had yet a rigorous literary standard of her own,
 and often altered a word many times to suit an ear which had its own
 tenacious fastidiousness.
 
-
 Miss Dickinson was born in Amherst, Mass., Dec. 10, 1830, and died
 there May 15, 1886. Her father, Hon. Edward Dickinson, was the
 leading lawyer of Amherst, and was treasurer of the well-known
@@ -74,7 +61,6 @@ she had dwelt in a nunnery.  For myself, although I had corresponded
 with her for many years, I saw her but twice face to face, and
 brought away the impression of something as unique and remote as
 Undine or Mignon or Thekla.
-
 
 This selection from her poems is published to meet the desire of her
 personal friends, and especially of her surviving sister. It is
