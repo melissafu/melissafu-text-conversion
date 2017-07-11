@@ -8,16 +8,15 @@ Title: Poems: Three Series, Complete
 
 
 Author: Emily Dickinson    
+
+
 Release Date: May 3, 2004 [EBook #12242]
-$~$
+
+
 Language: English
 
 
-**** START OF THIS PROJECT GUTENBERG EBOOK POEMS: THREE SERIES, COMPLETE ****
-"\
-
-"
-
+*** START OF THIS PROJECT GUTENBERG EBOOK POEMS: THREE SERIES, COMPLETE ***
 
 
 Produced by Jim Tinsley <jtinsley@pobox.com>
