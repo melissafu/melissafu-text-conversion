@@ -130,7 +130,8 @@ Where Resurrections - be -
 The sun - as common - went abroad -  
 The flowers - accustomed - blew,  
 As if no soul - that solstice passed -  
-Which maketh all things - new -    
+Which maketh all things - new -
+
 The time was scarce profaned - by speech -
 
 The falling of a word
