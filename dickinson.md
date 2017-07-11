@@ -22,24 +22,16 @@ Language: English
 Produced by Jim Tinsley <jtinsley@pobox.com>
 
 
+POEMS
 
 
-
-# POEMS
-
-
-# by EMILY DICKINSON
-
-
-
+by EMILY DICKINSON
 
 
 Edited by two of her friends
 
 
 MABEL LOOMIS TODD and T.W. HIGGINSON
-
-
 
 
 # PREFACE.
@@ -112,12 +104,7 @@ wrote in his earlier and better days, "No weight nor mass nor beauty
 of execution can outweigh one grain or fragment of thought."
 
 
-            ---Thomas Wentworth Higginson
-
-
-
-
-
+---Thomas Wentworth Higginson
 
 
 # TRANSCRIBER'S NOTE
@@ -187,15 +174,7 @@ version in the main text to get a flavor of the changes made
 in these early editions.
 
 
-      ---JT
-
-
-
-
-
-
-
-
+---JT
 
 
     This is my letter to the world,
