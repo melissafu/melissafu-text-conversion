@@ -4,18 +4,19 @@ Project Gutenberg's Poems: Three Series, Complete, by Emily Dickinson
 This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.net
 
 
-Title: Poems: Three Series, Complete  
-Author: Emily Dickinson  
+Title: Poems: Three Series, Complete
 
 
+Author: Emily Dickinson    
 Release Date: May 3, 2004 [EBook #12242]
-
-
+$~$
 Language: English
 
 
 **** START OF THIS PROJECT GUTENBERG EBOOK POEMS: THREE SERIES, COMPLETE ****
+"\
 
+"
 
 
 
