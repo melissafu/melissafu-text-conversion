@@ -22,10 +22,10 @@ Language: English
 Produced by Jim Tinsley <jtinsley@pobox.com>
 
 
-POEMS
+### POEMS
 
 
-by EMILY DICKINSON
+### by EMILY DICKINSON
 
 
 Edited by two of her friends
@@ -123,44 +123,65 @@ showing _underlined_ words thus.
 
 
 There came a day - at Summer's full -
+
 Entirely for me -
+
 I thought that such were for the Saints -
+
 Where Resurrections - be -
 
 
 The sun - as common - went abroad -
+
 The flowers - accustomed - blew,
+
 As if no soul - that solstice passed -
+
 Which maketh all things - new -
 
 
 The time was scarce profaned - by speech -
+
 The falling of a word
+
 Was needless - as at Sacrament -
+
 The _Wardrobe_ - of our Lord!
 
 
 Each was to each - the sealed church -
+
 Permitted to commune -  _this_ time -
+
 Lest we too awkward show
+
 At Supper of "the Lamb."
 
 
 The hours slid fast - as hours will -
+
 Clutched tight - by greedy hands -
+
 So - faces on two Decks look back -
+
 Bound to _opposing_ lands.
 
 
 And so, when all the time had leaked,
+
 Without external sound,
+
 Each bound the other's Crucifix -
+
 We gave no other bond -
 
 
 Sufficient troth - that we shall _rise_,
+
 Deposed - at length the Grave -
+
 To that new marriage -
+
 _Justified_ - through Calvaries - of Love!
 
 
@@ -178,29 +199,14 @@ in these early editions.
 
 
     This is my letter to the world,
-
       That never wrote to me, --
-      
     The simple news that Nature told,
-    
        With tender majesty.
 
-
-    Her message is committed
-    
+    Her message is committed    
        To hands I cannot see;
-       
     For love of her, sweet countrymen,
-    
        Judge tenderly of me!
-
-
-
-
-
-
-
-
 
 
 # I. LIFE.
@@ -218,20 +224,29 @@ fellow-townswoman and friend.]
 
 
 Success is counted sweetest
+
 By those who ne'er succeed.
+
 To comprehend a nectar
+
 Requires sorest need.
 
 
 Not one of all the purple host
+
 Who took the flag to-day
+
 Can tell the definition,
+
 So clear, of victory,
 
 
 As he, defeated, dying,
+
 On whose forbidden ear
+
 The distant strains of triumph
+
 Break, agonized and clear!
 
 
