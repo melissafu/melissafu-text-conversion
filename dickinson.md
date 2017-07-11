@@ -122,16 +122,15 @@ and I here transcribe that manuscript as faithfully as I can,
 showing _underlined_ words thus.
 
 
-There came a day - at Summer's full -
-Entirely for me -
-I thought that such were for the Saints -
-Where Resurrections - be -
+There came a day - at Summer's full -  
+Entirely for me -  
+I thought that such were for the Saints -  
+Where Resurrections - be -  
 
 The sun - as common - went abroad -  
 The flowers - accustomed - blew,  
 As if no soul - that solstice passed -  
-Which maketh all things - new -
-
+Which maketh all things - new -    
 The time was scarce profaned - by speech -
 
 The falling of a word
