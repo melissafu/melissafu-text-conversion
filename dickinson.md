@@ -132,55 +132,35 @@ The flowers - accustomed - blew,
 As if no soul - that solstice passed -  
 Which maketh all things - new -
 
-The time was scarce profaned - by speech -
-
-The falling of a word
-
-Was needless - as at Sacrament -
-
+The time was scarce profaned - by speech -  
+The falling of a word  
+Was needless - as at Sacrament -  
 The _Wardrobe_ - of our Lord!
 
-
-Each was to each - the sealed church -
-
-Permitted to commune -  _this_ time -
-
-Lest we too awkward show
-
+Each was to each - the sealed church -  
+Permitted to commune -  _this_ time -  
+Lest we too awkward show  
 At Supper of "the Lamb."
 
-
-The hours slid fast - as hours will -
-
-Clutched tight - by greedy hands -
-
-So - faces on two Decks look back -
-
+The hours slid fast - as hours will -  
+Clutched tight - by greedy hands -  
+So - faces on two Decks look back -  
 Bound to _opposing_ lands.
 
 
-And so, when all the time had leaked,
-
-Without external sound,
-
-Each bound the other's Crucifix -
-
+And so, when all the time had leaked,  
+Without external sound,  
+Each bound the other's Crucifix -  
 We gave no other bond -
 
-
-Sufficient troth - that we shall _rise_,
-
-Deposed - at length the Grave -
-
-To that new marriage -
-
-_Justified_ - through Calvaries - of Love!
-
+Sufficient troth - that we shall _rise_,  
+Deposed - at length the Grave -  
+To that new marriage -  
+_Justified_ - through Calvaries - of Love!  
 
 From the handwriting, it is not always clear which are dashes,
 which are commas and which are periods, nor it is entirely
 clear which initial letters are capitalized.
-
 
 However, this transcription may be compared with the edited
 version in the main text to get a flavor of the changes made
