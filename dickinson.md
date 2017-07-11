@@ -1,17 +1,24 @@
 Project Gutenberg's Poems: Three Series, Complete, by Emily Dickinson
-This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever.  You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.net
+
+
+This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.net
+
+
 
 
 Title: Poems: Three Series, Complete
 
+
 Author: Emily Dickinson
 
+
 Release Date: May 3, 2004 [EBook #12242]
+
 
 Language: English
 
 
-*** START OF THIS PROJECT GUTENBERG EBOOK POEMS: THREE SERIES, COMPLETE ***
+* START OF THIS PROJECT GUTENBERG EBOOK POEMS: THREE SERIES, COMPLETE *
 
 
 
@@ -22,21 +29,25 @@ Produced by Jim Tinsley <jtinsley@pobox.com>
 
 
 
-POEMS
+# POEMS
 
-by EMILY DICKINSON
+
+# by EMILY DICKINSON
+
 
 
 
 
 Edited by two of her friends
 
+
 MABEL LOOMIS TODD and T.W. HIGGINSON
 
 
 
 
-PREFACE.
+# PREFACE.
+
 
 The verses of Emily Dickinson belong emphatically to what Emerson
 long since called "the Poetry of the Portfolio,"--something produced
@@ -59,6 +70,7 @@ conventional rules, had yet a rigorous literary standard of her own,
 and often altered a word many times to suit an ear which had its own
 tenacious fastidiousness.
 
+
 Miss Dickinson was born in Amherst, Mass., Dec. 10, 1830, and died
 there May 15, 1886. Her father, Hon. Edward Dickinson, was the
 leading lawyer of Amherst, and was treasurer of the well-known
@@ -74,6 +86,7 @@ she had dwelt in a nunnery.  For myself, although I had corresponded
 with her for many years, I saw her but twice face to face, and
 brought away the impression of something as unique and remote as
 Undine or Mignon or Thekla.
+
 
 This selection from her poems is published to meet the desire of her
 personal friends, and especially of her surviving sister. It is
@@ -102,6 +115,7 @@ breath away, a lesson on grammar seems an impertinence. As Ruskin
 wrote in his earlier and better days, "No weight nor mass nor beauty
 of execution can outweigh one grain or fragment of thought."
 
+
             ---Thomas Wentworth Higginson
 
 
@@ -110,12 +124,14 @@ of execution can outweigh one grain or fragment of thought."
 
 
 
-TRANSCRIBER'S NOTE
+# TRANSCRIBER'S NOTE
+
 
 As is well documented, Emily Dickinson's poems were edited in these
 early editions by her friends, better to fit the conventions of the
 times. In particular, her dashes, often small enough to appear
 as dots, became commas and semi-colons.
+
 
 In the second series of poems published, a facsimile of her
 handwritten poem which her editors titled "Renunciation" is given,
@@ -128,30 +144,36 @@ Entirely for me -
 I thought that such were for the Saints -
 Where Resurrections - be -
 
+
 The sun - as common - went abroad -
 The flowers - accustomed - blew,
 As if no soul - that solstice passed -
 Which maketh all things - new -
+
 
 The time was scarce profaned - by speech -
 The falling of a word
 Was needless - as at Sacrament -
 The _Wardrobe_ - of our Lord!
 
+
 Each was to each - the sealed church -
 Permitted to commune -  _this_ time -
 Lest we too awkward show
 At Supper of "the Lamb."
+
 
 The hours slid fast - as hours will -
 Clutched tight - by greedy hands -
 So - faces on two Decks look back -
 Bound to _opposing_ lands.
 
+
 And so, when all the time had leaked,
 Without external sound,
 Each bound the other's Crucifix -
 We gave no other bond -
+
 
 Sufficient troth - that we shall _rise_,
 Deposed - at length the Grave -
@@ -163,9 +185,11 @@ From the handwriting, it is not always clear which are dashes,
 which are commas and which are periods, nor it is entirely
 clear which initial letters are capitalized.
 
+
 However, this transcription may be compared with the edited
 version in the main text to get a flavor of the changes made
 in these early editions.
+
 
       ---JT
 
@@ -183,6 +207,7 @@ in these early editions.
     The simple news that Nature told,
        With tender majesty.
 
+
     Her message is committed
        To hands I cannot see;
     For love of her, sweet countrymen,
@@ -197,26 +222,31 @@ in these early editions.
 
 
 
-I. LIFE.
+# I. LIFE.
 
 
-I.
+## I.
 
-SUCCESS.
+
+### SUCCESS.
+
 
 [Published in "A Masque of Poets"
 at the request of "H.H.," the author's
 fellow-townswoman and friend.]
+
 
 Success is counted sweetest
 By those who ne'er succeed.
 To comprehend a nectar
 Requires sorest need.
 
+
 Not one of all the purple host
 Who took the flag to-day
 Can tell the definition,
 So clear, of victory,
+
 
 As he, defeated, dying,
 On whose forbidden ear
@@ -227,12 +257,14 @@ Break, agonized and clear!
 
 
 
-II.
+## II.
+
 
 Our share of night to bear,
 Our share of morning,
 Our blank in bliss to fill,
 Our blank in scorning.
+
 
 Here a star, and there a star,
 Some lose their way.
@@ -243,14 +275,17 @@ Afterwards -- day!
 
 
 
-III.
+## III.
 
-ROUGE ET NOIR.
+
+### ROUGE ET NOIR.
+
 
 Soul, wilt thou toss again?
 By just such a hazard
 Hundreds have lost, indeed,
 But tens have won an all.
+
 
 Angels' breathless ballot
 Lingers to record thee;
@@ -261,9 +296,11 @@ Raffle for my soul.
 
 
 
-IV.
+## IV.
 
-ROUGE GAGNE.
+
+### ROUGE GAGNE.
+
 
 'T is so much joy! 'T is so much joy!
 If I should fail, what poverty!
@@ -272,12 +309,14 @@ Have ventured all upon a throw;
 Have gained! Yes! Hesitated so
 This side the victory!
 
+
 Life is but life, and death but death!
 Bliss is but bliss, and breath but breath!
 And if, indeed, I fail,
 At least to know the worst is sweet.
 Defeat means nothing but defeat,
 No drearier can prevail!
+
 
 And if I gain, -- oh, gun at sea,
 Oh, bells that in the steeples be,
@@ -290,28 +329,31 @@ And might o'erwhelm me so!
 
 
 
-V.
+## V.
+
 
 Glee! The great storm is over!
 Four have recovered the land;
 Forty gone down together
 Into the boiling sand.
 
+
 Ring, for the scant salvation!
 Toll, for the bonnie souls, --
 Neighbor and friend and bridegroom,
 Spinning upon the shoals!
+
 
 How they will tell the shipwreck
 When winter shakes the door,
 Till the children ask, "But the forty?
 Did they come back no more?"
 
+
 Then a silence suffuses the story,
 And a softness the teller's eye;
 And the children no further question,
 And only the waves reply.
-
 
 
 
