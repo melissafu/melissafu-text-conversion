@@ -1,4 +1,5 @@
 Project Gutenberg's Poems: Three Series, Complete, by Emily Dickinson
+
 This eBook is for the use of anyone anywhere at no cost and with almost no restrictions whatsoever. You may copy it, give it away or re-use it under the terms of the Project Gutenberg License included with this eBook or online at www.gutenberg.net
 
 Title: Poems: Three Series, Complete
@@ -207,103 +208,76 @@ Lingers to record thee;
 Imps in eager caucus  
 Raffle for my soul.  
 
-
-
-
-
 ## IV.
-
 
 ### ROUGE GAGNE.
 
+'T is so much joy! 'T is so much joy!  
+If I should fail, what poverty!  
+And yet, as poor as I  
+Have ventured all upon a throw;  
+Have gained! Yes! Hesitated so  
+This side the victory!  
 
-'T is so much joy! 'T is so much joy!
-If I should fail, what poverty!
-And yet, as poor as I
-Have ventured all upon a throw;
-Have gained! Yes! Hesitated so
-This side the victory!
+Life is but life, and death but death!  
+Bliss is but bliss, and breath but breath!  
+And if, indeed, I fail,  
+At least to know the worst is sweet.  
+Defeat means nothing but defeat,  
+No drearier can prevail!  
 
-
-Life is but life, and death but death!
-Bliss is but bliss, and breath but breath!
-And if, indeed, I fail,
-At least to know the worst is sweet.
-Defeat means nothing but defeat,
-No drearier can prevail!
-
-
-And if I gain, -- oh, gun at sea,
-Oh, bells that in the steeples be,
-At first repeat it slow!
-For heaven is a different thing
-Conjectured, and waked sudden in,
-And might o'erwhelm me so!
-
-
-
-
+And if I gain, -- oh, gun at sea,  
+Oh, bells that in the steeples be,  
+At first repeat it slow!  
+For heaven is a different thing  
+Conjectured, and waked sudden in,  
+And might o'erwhelm me so!  
 
 ## V.
 
+Glee! The great storm is over!  
+Four have recovered the land;  
+Forty gone down together  
+Into the boiling sand.  
 
-Glee! The great storm is over!
-Four have recovered the land;
-Forty gone down together
-Into the boiling sand.
+Ring, for the scant salvation!  
+Toll, for the bonnie souls, --  
+Neighbor and friend and bridegroom,  
+Spinning upon the shoals!  
 
+How they will tell the shipwreck  
+When winter shakes the door,  
+Till the children ask, "But the forty?  
+Did they come back no more?"  
 
-Ring, for the scant salvation!
-Toll, for the bonnie souls, --
-Neighbor and friend and bridegroom,
-Spinning upon the shoals!
+Then a silence suffuses the story,  
+And a softness the teller's eye;  
+And the children no further question,  
+And only the waves reply.  
 
+## VI.
 
-How they will tell the shipwreck
-When winter shakes the door,
-Till the children ask, "But the forty?
-Did they come back no more?"
+If I can stop one heart from breaking,  
+I shall not live in vain;  
+If I can ease one life the aching,  
+Or cool one pain,  
+Or help one fainting robin  
+Unto his nest again,  
+I shall not live in vain.  
 
-
-Then a silence suffuses the story,
-And a softness the teller's eye;
-And the children no further question,
-And only the waves reply.
-
-
-
-
-VI.
-
-If I can stop one heart from breaking,
-I shall not live in vain;
-If I can ease one life the aching,
-Or cool one pain,
-Or help one fainting robin
-Unto his nest again,
-I shall not live in vain.
-
-
-
-
-
-VII.
+## VII.
 
 ALMOST!
 
-Within my reach!
-I could have touched!
-I might have chanced that way!
-Soft sauntered through the village,
-Sauntered as soft away!
-So unsuspected violets
-Within the fields lie low,
-Too late for striving fingers
+Within my reach!  
+I could have touched!  
+I might have chanced that way!  
+Soft sauntered through the village,  
+Sauntered as soft away!  
+So unsuspected violets  
+Within the fields lie low,  
+Too late for striving fingers  
 That passed, an hour ago.
-
-
-
-
 
 VIII.
 
