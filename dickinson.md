@@ -279,312 +279,270 @@ Within the fields lie low,
 Too late for striving fingers  
 That passed, an hour ago.
 
-VIII.
+## VIII.
+
+A wounded deer leaps highest,  
+I've heard the hunter tell;  
+'T is but the ecstasy of death,  
+And then the brake is still.  
+
+The smitten rock that gushes,  
+The trampled steel that springs;  
+A cheek is always redder  
+Just where the hectic stings!  
+
+Mirth is the mail of anguish,  
+In which it cautions arm,  
+Lest anybody spy the blood  
+And "You're hurt" exclaim!  
+
+## IX.
+
+The heart asks pleasure first,  
+And then, excuse from pain;  
+And then, those little anodynes  
+That deaden suffering;  
+
+And then, to go to sleep;  
+And then, if it should be  
+The will of its Inquisitor,  
+The liberty to die.  
 
-A wounded deer leaps highest,
-I've heard the hunter tell;
-'T is but the ecstasy of death,
-And then the brake is still.
+## X.
 
-The smitten rock that gushes,
-The trampled steel that springs;
-A cheek is always redder
-Just where the hectic stings!
+### IN A LIBRARY.
 
-Mirth is the mail of anguish,
-In which it cautions arm,
-Lest anybody spy the blood
-And "You're hurt" exclaim!
-
-
-
-
-
-IX.
-
-The heart asks pleasure first,
-And then, excuse from pain;
-And then, those little anodynes
-That deaden suffering;
-
-And then, to go to sleep;
-And then, if it should be
-The will of its Inquisitor,
-The liberty to die.
-
-
-
-
-
-X.
-
-IN A LIBRARY.
-
-A precious, mouldering pleasure 't is
-To meet an antique book,
-In just the dress his century wore;
-A privilege, I think,
-
-His venerable hand to take,
-And warming in our own,
-A passage back, or two, to make
-To times when he was young.
-
-His quaint opinions to inspect,
-His knowledge to unfold
-On what concerns our mutual mind,
-The literature of old;
-
-What interested scholars most,
-What competitions ran
-When Plato was a certainty.
-And Sophocles a man;
-
-When Sappho was a living girl,
-And Beatrice wore
-The gown that Dante deified.
-Facts, centuries before,
-
-He traverses familiar,
-As one should come to town
-And tell you all your dreams were true;
-He lived where dreams were sown.
-
-His presence is enchantment,
-You beg him not to go;
-Old volumes shake their vellum heads
-And tantalize, just so.
-
-
-
-
-
-XI.
-
-Much madness is divinest sense
-To a discerning eye;
-Much sense the starkest madness.
-'T is the majority
-In this, as all, prevails.
-Assent, and you are sane;
-Demur, -- you're straightway dangerous,
-And handled with a chain.
-XII.
-
-I asked no other thing,
-No other was denied.
-I offered Being for it;
-The mighty merchant smiled.
-
-Brazil? He twirled a button,
-Without a glance my way:
-"But, madam, is there nothing else
-That we can show to-day?"
-
-
-
-
-
-XIII.
-
-EXCLUSION.
-
-The soul selects her own society,
-Then shuts the door;
-On her divine majority
-Obtrude no more.
-
-Unmoved, she notes the chariot's pausing
-At her low gate;
-Unmoved, an emperor is kneeling
-Upon her mat.
-
-I've known her from an ample nation
-Choose one;
-Then close the valves of her attention
-Like stone.
-
-
-
-
-
-XIV.
-
-THE SECRET.
-
-Some things that fly there be, --
-Birds, hours, the bumble-bee:
-Of these no elegy.
-
-Some things that stay there be, --
-Grief, hills, eternity:
-Nor this behooveth me.
-
-There are, that resting, rise.
-Can I expound the skies?
-How still the riddle lies!
-
-
-
-
-
-XV.
-
-THE LONELY HOUSE.
-
-I know some lonely houses off the road
-A robber 'd like the look of, --
-Wooden barred,
-And windows hanging low,
-Inviting to
-A portico,
-Where two could creep:
-One hand the tools,
-The other peep
-To make sure all's asleep.
-Old-fashioned eyes,
-Not easy to surprise!
-
-How orderly the kitchen 'd look by night,
-With just a clock, --
-But they could gag the tick,
-And mice won't bark;
-And so the walls don't tell,
-None will.
-
-A pair of spectacles ajar just stir --
-An almanac's aware.
-Was it the mat winked,
-Or a nervous star?
-The moon slides down the stair
-To see who's there.
-
-There's plunder, -- where?
-Tankard, or spoon,
-Earring, or stone,
-A watch, some ancient brooch
-To match the grandmamma,
-Staid sleeping there.
-
-Day rattles, too,
-Stealth's slow;
-The sun has got as far
-As the third sycamore.
-Screams chanticleer,
-"Who's there?"
-And echoes, trains away,
-Sneer -- "Where?"
-While the old couple, just astir,
-Fancy the sunrise left the door ajar!
-
-
-
-
-
-XVI.
-
-To fight aloud is very brave,
-But gallanter, I know,
-Who charge within the bosom,
-The cavalry of woe.
-
-Who win, and nations do not see,
-Who fall, and none observe,
-Whose dying eyes no country
-Regards with patriot love.
-
-We trust, in plumed procession,
-For such the angels go,
-Rank after rank, with even feet
-And uniforms of snow.
-
-
-
-
-
-XVII.
-
-DAWN.
-
-When night is almost done,
-And sunrise grows so near
-That we can touch the spaces,
-It 's time to smooth the hair
-
-And get the dimples ready,
-And wonder we could care
-For that old faded midnight
-That frightened but an hour.
-
-
-
-
-
-XVIII.
-
-THE BOOK OF MARTYRS.
-
-Read, sweet, how others strove,
-Till we are stouter;
-What they renounced,
-Till we are less afraid;
-How many times they bore
-The faithful witness,
-Till we are helped,
-As if a kingdom cared!
-
-Read then of faith
-That shone above the fagot;
-Clear strains of hymn
-The river could not drown;
-Brave names of men
-And celestial women,
-Passed out of record
-Into renown!
-
-
-
-
-
-XIX.
-
-THE MYSTERY OF PAIN.
-
-Pain has an element of blank;
-It cannot recollect
-When it began, or if there were
-A day when it was not.
-
-It has no future but itself,
-Its infinite realms contain
-Its past, enlightened to perceive
-New periods of pain.
-
-
-
-
-
-XX.
-
-I taste a liquor never brewed,
-From tankards scooped in pearl;
-Not all the vats upon the Rhine
-Yield such an alcohol!
-
-Inebriate of air am I,
-And debauchee of dew,
-Reeling, through endless summer days,
-From inns of molten blue.
-
-When landlords turn the drunken bee
-Out of the foxglove's door,
-When butterflies renounce their drams,
-I shall but drink the more!
-
-Till seraphs swing their snowy hats,
-And saints to windows run,
-To see the little tippler
-Leaning against the sun!
+A precious, mouldering pleasure 't is  
+To meet an antique book,  
+In just the dress his century wore;  
+A privilege, I think,  
+
+His venerable hand to take,  
+And warming in our own,  
+A passage back, or two, to make  
+To times when he was young.  
+
+His quaint opinions to inspect,  
+His knowledge to unfold  
+On what concerns our mutual mind,  
+The literature of old;  
+
+What interested scholars most,  
+What competitions ran  
+When Plato was a certainty.  
+And Sophocles a man;  
+
+When Sappho was a living girl,  
+And Beatrice wore  
+The gown that Dante deified.  
+Facts, centuries before,  
+
+He traverses familiar,  
+As one should come to town  
+And tell you all your dreams were true;  
+He lived where dreams were sown.  
+
+His presence is enchantment,  
+You beg him not to go;  
+Old volumes shake their vellum heads  
+And tantalize, just so.  
+
+## XI.
+
+Much madness is divinest sense  
+To a discerning eye;  
+Much sense the starkest madness.  
+'T is the majority  
+In this, as all, prevails.  
+Assent, and you are sane;  
+Demur, -- you're straightway dangerous,  
+And handled with a chain.  
+
+## XII.
+
+I asked no other thing,  
+No other was denied.  
+I offered Being for it;  
+The mighty merchant smiled.  
+
+Brazil? He twirled a button,  
+Without a glance my way:  
+"But, madam, is there nothing else  
+That we can show to-day?"  
+
+## XIII.
+
+### EXCLUSION.
+
+The soul selects her own society,  
+Then shuts the door;  
+On her divine majority  
+Obtrude no more.  
+
+Unmoved, she notes the chariot's pausing  
+At her low gate;  
+Unmoved, an emperor is kneeling  
+Upon her mat.  
+
+I've known her from an ample nation  
+Choose one;  
+Then close the valves of her attention  
+Like stone.  
+
+## XIV.
+
+### THE SECRET.
+
+Some things that fly there be, --  
+Birds, hours, the bumble-bee:  
+Of these no elegy.  
+
+Some things that stay there be, --  
+Grief, hills, eternity:  
+Nor this behooveth me.  
+
+There are, that resting, rise.  
+Can I expound the skies?  
+How still the riddle lies!  
+
+## XV.
+
+### THE LONELY HOUSE.
+
+I know some lonely houses off the road  
+A robber 'd like the look of, --  
+Wooden barred,  
+And windows hanging low,  
+Inviting to  
+A portico,  
+Where two could creep:  
+One hand the tools,  
+The other peep  
+To make sure all's asleep.  
+Old-fashioned eyes,  
+Not easy to surprise!  
+
+How orderly the kitchen 'd look by night,  
+With just a clock, --  
+But they could gag the tick,  
+And mice won't bark;  
+And so the walls don't tell,  
+None will.  
+
+A pair of spectacles ajar just stir --  
+An almanac's aware.  
+Was it the mat winked,  
+Or a nervous star?  
+The moon slides down the stair  
+To see who's there.  
+
+There's plunder, -- where?  
+Tankard, or spoon,  
+Earring, or stone,  
+A watch, some ancient brooch  
+To match the grandmamma,  
+Staid sleeping there.  
+
+Day rattles, too,  
+Stealth's slow;  
+The sun has got as far  
+As the third sycamore.  
+Screams chanticleer,  
+"Who's there?"  
+And echoes, trains away,  
+Sneer -- "Where?"  
+While the old couple, just astir,  
+Fancy the sunrise left the door ajar!  
+
+## XVI.
+
+To fight aloud is very brave,  
+But gallanter, I know,  
+Who charge within the bosom,  
+The cavalry of woe.  
+
+Who win, and nations do not see,  
+Who fall, and none observe,  
+Whose dying eyes no country  
+Regards with patriot love.  
+
+We trust, in plumed procession,  
+For such the angels go,  
+Rank after rank, with even feet  
+And uniforms of snow.  
+
+## XVII.
+
+### DAWN.
+
+When night is almost done,  
+And sunrise grows so near  
+That we can touch the spaces,  
+It 's time to smooth the hair  
+
+And get the dimples ready,  
+And wonder we could care  
+For that old faded midnight  
+That frightened but an hour.  
+
+## XVIII.
+
+### THE BOOK OF MARTYRS.
+
+Read, sweet, how others strove,  
+Till we are stouter;  
+What they renounced,  
+Till we are less afraid;  
+How many times they bore  
+The faithful witness,  
+Till we are helped,  
+As if a kingdom cared!  
+
+Read then of faith  
+That shone above the fagot;  
+Clear strains of hymn  
+The river could not drown;  
+Brave names of men  
+And celestial women,  
+Passed out of record  
+Into renown!  
+
+## XIX.
+
+### THE MYSTERY OF PAIN.
+
+Pain has an element of blank;  
+It cannot recollect  
+When it began, or if there were  
+A day when it was not.  
+
+It has no future but itself,  
+Its infinite realms contain  
+Its past, enlightened to perceive  
+New periods of pain.  
+
+
+## XX.
+
+I taste a liquor never brewed,  
+From tankards scooped in pearl;  
+Not all the vats upon the Rhine  
+Yield such an alcohol!  
+
+Inebriate of air am I,  
+And debauchee of dew,  
+Reeling, through endless summer days,  
+From inns of molten blue.  
+
+When landlords turn the drunken bee  
+Out of the foxglove's door,  
+When butterflies renounce their drams,  
+I shall but drink the more!  
+
+Till seraphs swing their snowy hats,  
+And saints to windows run,  
+To see the little tippler  
+Leaning against the sun!  
 
 
 
